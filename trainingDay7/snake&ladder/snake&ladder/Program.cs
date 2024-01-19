@@ -10,7 +10,7 @@ namespace snake_ladder
     {
         static void Main(string[] args)
         {
-            int pos = 0;
+            int player_pos = 0;
         }
     }
 }
