@@ -1,0 +1,137 @@
+    1  pwd
+    2  ls
+    3  ls --l
+    4  ls --help
+    5  ls -a
+    6  cd
+    7  cd Desktop
+    8  cd
+    9  cd Desktop
+   10  pwd
+   11  cd docs/
+   12  cd ..
+   13  pwd
+   14  cd docs/
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  clear
+   19  mkdir training
+   20  touch abc.txt
+   21  pwd
+   22  cd training/
+   23  touch abc.txt
+   24  ls -a
+   25  rm abc.txt 
+   26  cd
+   27  ls
+   28  pwd
+   29  cd Desktop/
+   30  cd training/
+   31  ls
+   32  cd
+   33  cd ..
+   34  pwd
+   35  cd ..
+   36  cd ..
+   37  pwd
+   38  ls
+   39  cd ~
+   40  ls
+   41  cd
+   42  cd Desktop/
+   43  rmdir training/
+   44  ls
+   45  pwd
+   46  mkdir training
+   47  cd training/
+   48  touch abc.txt
+   49  pwd
+   50  cd ..
+   51  pwd
+   52  rmdir training/
+   53  cd training/
+   54  nano abc
+   55   cat abc
+   56  nano abc.txt
+   57  cat abc
+   58  cat abc.txt
+   59  rm abc
+   60  cd abc
+   61  pwd
+   62  cat abc.txt 
+   63  head abc.txt 
+   64  nano abc.txt 
+   65  cd ..
+   66  pwd
+   67  mkdir newfolder
+   68  ls
+   69  mv training newfolder
+   70  cd newfolder/
+   71  ls
+   72  cd training/
+   73  ls
+   74  cat abc
+   75  cat abc.txt 
+   76  cd ..
+   77  cd ..
+   78  cd training
+   79   cd newfolder/
+   80  ls
+   81  cd training/
+   82  ls
+   83  mkdir newdirectory
+   84  cp abc.txt newdirectory/
+   85  ls
+   86   history
+   87  touch notes.txt
+   88  history > notes.txt 
+   89  cat notes.txt 
+   90  cd
+   91  pwd
+   92  cd Desktop/
+   93  cd newfolder/
+   94  ls
+   95  cd training/
+   96  ls
+   97  ls --help
+   98  cd ..
+   99  mkdir training2
+  100  ls
+  101  cd training
+  102  ls
+  103  ls -a
+  104  ls -A
+  105  cd ..
+  106  cd ..
+  107  cd docs/
+  108  cd ..
+  109  cd BTECH/
+  110  ls
+  111  ls --help
+  112  ls -a
+  113  ls -A
+  114  ls -b
+  115  ls -C
+  116  ls -d
+  117  ls -g
+  118  ls -h
+  119  ls -I
+  120  ls -l
+  121  ls -L
+  122  ls -N
+  123  ls -Q
+  124  ls -r
+  125  ls -R
+  126  ls _s
+  127  ls -s
+  128  ls -S
+  129  ls -t
+  130  ls -T
+  131  ls -u
+  132  ls -U
+  133  ls -Z
+  134  cd ..
+  135  cd newfolder/
+  136  touch commands.txt
+  137  history > commands.txt 
