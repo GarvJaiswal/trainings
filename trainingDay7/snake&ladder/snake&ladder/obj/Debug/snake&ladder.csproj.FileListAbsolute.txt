@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\bin\Debug\snake&ladder.exe.config
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\bin\Debug\snake&ladder.exe
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\bin\Debug\snake&ladder.pdb
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\obj\Debug\snake&ladder.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\obj\Debug\snake&ladder.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\obj\Debug\snake&ladder.exe
+C:\Users\lenovo\Desktop\locobuzz\trainingDay7\snake&ladder\snake&ladder\obj\Debug\snake&ladder.pdb
